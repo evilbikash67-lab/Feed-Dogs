@@ -1,0 +1,6 @@
+{
+  "name": "Feed A Dog",
+  "description": "Feed A Dog Welfare Trust - Official stray dog feeding NGO platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
